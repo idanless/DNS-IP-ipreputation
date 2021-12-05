@@ -8,7 +8,7 @@
 <ul>
 <li><span class="pl-s1">Number_rpeort - total users report on this ip</span></li>
 <li><span class="pl-s1">Lastupdate - last update report</span></li>
-<li><span class="pl-s1">Get_tag - tag user "tag" the ip (first page)</span></li>
+<li><span class="pl-s1">Get_tag - user "tag" the ip (first page)</span></li>
 <li><span class="pl-s1">Abusescore - % score&nbsp;</span></li>
 </ul>
 <p>&nbsp;</p>
