@@ -5,7 +5,8 @@ import re
 headers = {
 'authority': 'www.abuseipdb.com',
 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
-'referer': 'https://www.abuseipdb.com/'
+'referer': 'https://www.abuseipdb.com/',
+'cookie':'cookie_consent_functional=allow; cookie_consent_analytical=allow; ab.storage.deviceId.; __cf_bm=; XSRF-TOKEN=; abuseipdb_session='
 }
 
 class abuseipdb:
